@@ -1,0 +1,13 @@
+.section-container{
+    
+    
+}
+
+.logo{
+    width: 604px;
+    height: 368px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
